@@ -1,4 +1,4 @@
-# About Me
+# 🚀 About Me
 Hi, I'm Manel, a passionate individual drawn to the world of IT and emerging technologies. Started with Microcomputer Systems and Networks degree, then jumped into Computer Science with a focus on **Cross-Platform App Development**.
 
 ### My Tech Stack
